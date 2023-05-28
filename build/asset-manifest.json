@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85960221.css",
+    "main.js": "/static/js/main.15ab8508.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/controllersGame.jpg": "/static/media/controllersGame.561edc9e8036e0a3026a.jpg",
+    "static/media/philosophy-of-videogames.jpg": "/static/media/philosophy-of-videogames.affab15de40169db659c.jpg",
+    "static/media/yelow.jpg": "/static/media/yelow.a064f284578d5b3ef5f4.jpg",
+    "index.html": "/index.html",
+    "main.85960221.css.map": "/static/css/main.85960221.css.map",
+    "main.15ab8508.js.map": "/static/js/main.15ab8508.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85960221.css",
+    "static/js/main.15ab8508.js"
+  ]
+}
